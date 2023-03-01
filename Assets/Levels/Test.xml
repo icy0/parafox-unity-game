@@ -1,0 +1,37 @@
+<level>
+	<name>
+		Test
+	</name>
+	<materials>
+		Assets/LevelAssets/Materials/Crystal.mat
+		Assets/LevelAssets/Materials/Dirt.mat
+		Assets/LevelAssets/Materials/Grass.mat
+		Assets/LevelAssets/Materials/Rock.mat
+		Assets/LevelAssets/Materials/Small Metal Plates.mat
+	</materials>
+	<backgrounds>
+		Assets/LevelAssets/Backgrounds/Hintergrund1.png
+		Assets/LevelAssets/Backgrounds/Hintergrund1.psd
+		Assets/LevelAssets/Backgrounds/TestBackground.png
+	</backgrounds>
+	<levelobjects>
+		Assets/LevelAssets/LevelObjects/TestLevelObj.prefab
+	</levelobjects>
+	<directed_edge>
+		<vertices>
+		</vertices>
+		<edges>
+		</edges>
+	</directed_edge>
+	<sections count="1">
+		<section_0>
+			Section_0
+			0
+			0
+			0
+			<typeinfo>
+				3
+			</typeinfo>
+		</section_0>
+	</sections>
+</level>
